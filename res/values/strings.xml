@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">КАБiNET balance</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="preference_category">Настройки аккаунта КАБiNET</string>
+    <string name="login_summary">Укажите логин (k123456)</string>
+    <string name="password_summary">Укажите пароль</string>
+    <string name="settings">Настройки</string>
+    <string name="wait">Подождите...</string>
+    <string name="refresh">Обновить</string>
+    <string name="none">Нет данных</string>
+    <string name="info">О программе</string>
+    <string name="infomsg">Получение баланса учетной записи КАБiNET.\nhttp://maximko.org/\n2012</string>
+    <string name="ok">ok</string>
+</resources>
